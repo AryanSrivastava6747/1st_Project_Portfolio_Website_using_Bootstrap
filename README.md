@@ -13,7 +13,7 @@ This is a personal portfolio website created using HTML, CSS, and Bootstrap. It 
 - [Contact](#contact)
 
 ## Demo
-You can view the live demo of the website [here](https://yourusername.github.io/your-repository-name/).
+You can view the live demo of the website [here](https://AryanSrivastava6747.github.io/https://github.com/AryanSrivastava6747/).
 
 ## Features
 - Responsive design
@@ -28,4 +28,4 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone https://github.com/AryanSrivastava6747/1st_Project_Portfolio_Website_using_Bootstrap.git
